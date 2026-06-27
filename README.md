@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS Graduate (Class of 2026)** - Continuously expanding my knowledge in Software Engineering.
-- 📱 Specializing in **Flutter** & **Dart** with a strong focus on **Clean Architecture** (Domain, Data, Presentation) and **State Management (Cubit)**.
-- 💡 Passionate about crafting pixel-perfect, modern UI/UX (like Glassmorphism & Apple Aesthetics).
-- 🔗 Experienced in Backend Integration using **Firebase**, **Supabase**, and RESTful APIs (including .NET servers).
-- ⚙️ Focused on delivering high-performance, maintainable, and scalable mobile solutions.
+- 🎓 **CS Graduate (Class of 2026)** with a solid foundation in Software Engineering and advanced architectural patterns.
+- 🚀 **Architecture First:** Building robust, production-ready Flutter applications utilizing strict **Clean Architecture** (Domain, Data, Presentation) and **Cubit** for state management.
+- 🤖 **Modern Workflows:** Actively utilizing AI-assisted development tools and spec-kits (like `.cursorrules` and `.claudemd`) to enforce coding standards, prevent hallucinations, and streamline the development lifecycle.
+- 🎨 **UI/UX Obsessed:** Transforming complex requirements into intuitive, pixel-perfect interfaces inspired by Modern Glassmorphism and Apple aesthetics.
+- 🔗 **Full-Cycle Integration:** Experienced in connecting scalable frontends with robust backends using **Firebase**, **Supabase**, and complex RESTful APIs (including .NET architectures).
 
 ---
 
@@ -57,8 +57,9 @@ A sleek, modern mobile application focused on high-end UI/UX utilizing Glassmorp
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2201070&show_icons=true&theme=radium&hide_border=true" alt="Abdalrhman's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2201070&theme=radium&hide_border=true" alt="Abdalrhman's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2201070&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abdalrhman's GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2201070&theme=tokyonight&hide_border=true&background=0D1117" alt="Abdalrhman's GitHub Streak" />
 </p>
 
 ---
