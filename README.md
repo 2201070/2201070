@@ -48,9 +48,9 @@ A comprehensive Flutter application built with Clean Architecture. Features incl
 **Real-time Service Marketplace**
 A scalable marketplace connecting users with professional service providers. Engineered with a robust system design, detailed Master PRD, and structured using Clean Architecture principles.
 
-#### ✨ [Smart Service App] 
-**Modern Service Platform**
-A sleek, modern mobile application focused on high-end UI/UX utilizing Glassmorphism design aesthetics, fully integrated with Firebase for real-time data handling.
+#### 📚 [Bookly App] 
+**Book Discovery Mobile Application**
+A Flutter app utilizing a public Books API for book discovery. Engineered with MVVM architecture and BLoC state management for clean separation of concerns. Features include RESTful API integration with pagination, search functionality, and highly reusable, optimized UI components.
 
 ---
 
