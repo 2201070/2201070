@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Mobile App Developer (Flutter) </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Scalable+Apps;Passionate+about+UI%2FUX;Clean+Architecture+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Scalable+Apps;Passionate+about+UI%2FUX;Clean+Architecture" alt="Typing SVG" />
 </p>
 
 ---
